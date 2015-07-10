@@ -1,0 +1,21 @@
+.square {
+	height: 6vh;
+	width: 6vw;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: dashed;
+	display: inline-block;
+	padding: 0;
+}
+.container {
+	height: 100vh;
+	width: 100vw;
+}
+#prompt {
+	height: 40px;
+	width: 100%;
+	margin: auto;
+}
+#buttonContainer {
+	width: 100vw;
+}
